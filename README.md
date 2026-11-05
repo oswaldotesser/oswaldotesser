@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Roman 👋
 
-<!--
-**oswaldotesser/oswaldotesser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Integrations | Python | API | Automation
 
-Here are some ideas to get you started:
+I have an engineering background and experience working at the intersection of technology, digital marketing, and business operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on building and integrating digital systems, automating workflows, and solving technical problems.
+
+### 🛠 Technical Focus
+
+- **Programming:** Python, PHP, JavaScript
+- **Backend:** FastAPI, REST API, SQLAlchemy
+- **Databases:** PostgreSQL, SQLite
+- **Infrastructure:** Linux, Docker, VPS, systemd
+- **Integrations:** REST API, Webhooks, WebSocket, Postback / S2S
+- **Automation:** Make, Telegram API
+- **Platforms:** WordPress, TradingView, Bybit API
+
+### 🚀 Selected Projects
+
+**KC Algo Lab — Automated Trading Infrastructure**
+
+Development of a Python-based automated trading system integrating TradingView signals, exchange APIs, execution logic, risk management, monitoring, and notifications.
+
+Technologies: Python, FastAPI, REST API, WebSocket, SQLite, Linux.
+
+**Fin Help Center — Web Platform & Automation**
+
+Technical development and integration of a WordPress-based lead generation platform, including custom forms, webhook integrations, automated notifications, and analytics.
+
+Technologies: WordPress, PHP, JavaScript, Make, Webhooks, Telegram API.
+
+**AffPilot — AI-powered Affiliate Management Assistant**
+
+Development of an application designed to automate affiliate management workflows using Python, backend technologies, databases, and LLM integrations.
+
+Technologies: Python, FastAPI, PostgreSQL, SQLAlchemy, LLM.
+
+### 📚 Currently Learning
+
+- Python backend development
+- Docker and containerization
+- REST API design and integration
+- Linux system administration
+- LLM application development
+
+### 💼 Professional Background
+
+Experience in affiliate marketing, partner management, technical integrations, digital platforms, and business process automation.
+
+Interested in Technical Support, Implementation, Technical Customer Success, Backend Development, and Integration Engineering.
+
+---
+
+*Building practical solutions, learning continuously, and documenting the process.*
